@@ -1,6 +1,6 @@
-### Hi there 👋,thank you for visiting my github!
-![cover](https://raw.githubusercontent.com/duongsondev/duongsondev/master/22589.jpg)
+### Hi there 👋, thank you for visiting my github!
 <!--
+![cover](https://raw.githubusercontent.com/duongsondev/duongsondev/master/22589.jpg)
 **duongsondev/duongsondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
